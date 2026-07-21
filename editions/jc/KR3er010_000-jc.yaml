@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR3er010/jc/v1/juan/0
 seq: 0
-front:
+body:
   text: 繆序余自歸里後杜門不與世事接先太宜人病痰飲延葉眉壽治歷四年弗痊而眉壽謂為痼疾難效因遍覽方書頗會其旨揀方以治不一年而瘳後遂旁收博採窮幽極渺而於長沙河間東垣子和丹溪諸書尤三致意焉竊嘗謂醫之有長沙時中之聖也而四家並峙猶清任和之各成其聖偏焉而至者也學不從此參究猶航斷港絕潢以望至於海也其能之乎但四家自河間東垣而外子和文多缺略未為全書丹溪著作類出門人記載惟聞脈因證治一書簡而賅約而盡學者循是而窺長沙如得其船與楫沿而不止固自不可量也而流傳絕少歷三十年未獲一嗒心常怏怏歲乙未客有持來示余欲廣諸同好亟請付梓不禁欣感交集以為一線靈光忽然湧現真為桑榆之幸因不辭而為之序以弁其首乾隆乙未仲夏吳趨繆遵義書於芝田山房
   hash: sha256:7a230e68f662b37dfbcaeb073a149a68c67dbe2d23681c649d5a0b4682c55575
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR3er010_jc_000-d2.h1s1}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 脈因證治
   edition:
@@ -15,4 +12,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3er010.xml
-hash: sha256:1cb68cfa24600a50837cfc7c6facf153f653f5607bf3bafa341b0b8a9b9ce8a7
+hash: sha256:5f366b65a2b527f59ed76460773a8cc9fea0fc03ac8f0eaed2bdaa6b2243ed39
